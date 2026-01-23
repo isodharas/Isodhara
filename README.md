@@ -1,5 +1,4 @@
-# Isodhara
-My Readme
+# Hello !!!
 # 👩‍💻 Dinithi Isodhara Wijesinghe
 
 🎓 Software Engineering Undergraduate @ NSBM | Plymouth  
@@ -17,21 +16,13 @@ My Readme
 
 ## 🛠️ Tech Stack
 `Python` `TensorFlow` `PyTorch` `Docker` `Kubernetes` `GitHub Actions`  
-`React` `TailwindCSS` `Node.js` `MongoDB` `Figma`
+`React` `TailwindCSS` `Node.js` `MongoDB` `Figma` `AWS` `Flutter` `Canva` 
 
 ---
-
-## 🌱 Current Projects
-- 🎬 **CineRegal Cinema Booking System** — full-stack booking platform with responsive UI  
-- ♻️ **Mycollect** — AI-powered waste management system  
-- 📊 Academic reports with **clear, compliant documentation**
-
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/isodharas)  
-- 🐙 [GitHub](https://github.com/isodharas)  
-- 📷 [Instagram](https://instagram.com/isodharas.dev)  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/dinithi-wijesinghe-48519b314/)]
 
 ---
 
